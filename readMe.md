@@ -94,6 +94,6 @@ Elle est dotée d'un systeme d'authentification gérer par react en frontend et 
 
 
 <p>
- le code source ne se trouve pas car sa documentation est en cours de traitement.
+ le code source ne se trouve pas dans le projet car sa documentation est en cours de traitement.
 </p>
 
